@@ -1,0 +1,28 @@
+{
+  "name": "tuner",
+  "version": "1.0.0",
+  "description": "projeto de afinador",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdepaula/eel816-tuner.git"
+  },
+  "keywords": [
+    "tuner",
+    "tuning",
+    "music"
+  ],
+  "author": "Lucas de Paula, Juliano Marinho, Eduardo Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdepaula/eel816-tuner/issues"
+  },
+  "homepage": "https://github.com/lucasdepaula/eel816-tuner#readme",
+  "devDependencies": {
+    "electron": "^5.0.4"
+  }
+}
